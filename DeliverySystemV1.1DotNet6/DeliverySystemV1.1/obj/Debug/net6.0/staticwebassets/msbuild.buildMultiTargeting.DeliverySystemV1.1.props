@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DeliverySystemV1.1.props" />
+</Project>
